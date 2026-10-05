@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="790" viewBox="0 0 800 790" role="img" aria-labelledby="title desc">
+<title id="title">Lenguajes usados — radar de 11 ejes</title>
+<desc id="desc">Escala radial lineal de 0 a 50 por ciento. TypeScript: 43.06%; Python: 31.59%; JavaScript: 21.13%; Lua: 2.04%; SQL: 0.89%; HTML: 0.89%; Shell: 0.18%; CSS: 0.11%; PowerShell: 0.08%; Dockerfile: 0.02%; Mako: 0.01%. Distribución por tamaño de archivos del código actual, actualizada el 5 de octubre de 2026.</desc>
+<rect x="1" y="1" width="798" height="788" rx="24" fill="#0D1117" stroke="#30363D"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="400" y="52" text-anchor="middle" fill="#F0F6FC" font-size="25" font-weight="700">Lenguajes usados</text>
+<text x="400" y="80" text-anchor="middle" fill="#8B949E" font-size="14">11 lenguajes · Distribución del código</text>
+<polygon points="400.00,359.40 424.65,366.64 441.48,386.06 445.14,411.49 434.46,434.86 412.85,448.75 387.15,448.75 365.54,434.86 354.86,411.49 358.52,386.06 375.35,366.64" fill="none" stroke="#26352E" stroke-width="1"/>
+<polygon points="400.00,313.80 449.31,328.28 482.96,367.11 490.27,417.98 468.92,464.72 425.69,492.51 374.31,492.51 331.08,464.72 309.73,417.98 317.04,367.11 350.69,328.28" fill="none" stroke="#26352E" stroke-width="1"/>
+<polygon points="400.00,268.20 473.96,289.92 524.44,348.17 535.41,424.47 503.39,494.58 438.54,536.26 361.46,536.26 296.61,494.58 264.59,424.47 275.56,348.17 326.04,289.92" fill="none" stroke="#26352E" stroke-width="1"/>
+<polygon points="400.00,222.60 498.61,251.56 565.92,329.23 580.54,430.96 537.85,524.45 451.39,580.01 348.61,580.01 262.15,524.45 219.46,430.96 234.08,329.23 301.39,251.56" fill="none" stroke="#26352E" stroke-width="1"/>
+<polygon points="400.00,177.00 523.27,213.19 607.40,310.29 625.68,437.45 572.31,554.31 464.24,623.76 335.76,623.76 227.69,554.31 174.32,437.45 192.60,310.29 276.73,213.19" fill="none" stroke="#26352E" stroke-width="1.5"/>
+<line x1="400" y1="405" x2="400.00" y2="177.00" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="523.27" y2="213.19" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="607.40" y2="310.29" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="625.68" y2="437.45" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="572.31" y2="554.31" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="464.24" y2="623.76" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="335.76" y2="623.76" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="227.69" y2="554.31" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="174.32" y2="437.45" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="192.60" y2="310.29" stroke="#335C42" stroke-width="1.3"/>
+<line x1="400" y1="405" x2="276.73" y2="213.19" stroke="#335C42" stroke-width="1.3"/>
+<polygon points="400.00,208.65 405.03,397.17 403.69,403.31 404.02,405.58 508.87,499.33 400.23,405.79 399.86,405.48 327.18,468.10 399.64,405.05 399.92,404.96 399.98,404.96" fill="#00D568" fill-opacity="0.3" stroke="#39D978" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="400.00" cy="208.65" r="5" fill="#D4FFE2" stroke="#39D978" stroke-width="3"/>
+<circle cx="405.03" cy="397.17" r="5" fill="#D4FFE2" stroke="#39D978" stroke-width="3"/>
+<circle cx="508.87" cy="499.33" r="5" fill="#D4FFE2" stroke="#39D978" stroke-width="3"/>
+<circle cx="327.18" cy="468.10" r="5" fill="#D4FFE2" stroke="#39D978" stroke-width="3"/>
+<text x="409" y="364.4" font-size="11" fill="#8B949E">10%</text>
+<text x="409" y="318.8" font-size="11" fill="#8B949E">20%</text>
+<text x="409" y="273.2" font-size="11" fill="#8B949E">30%</text>
+<text x="409" y="227.6" font-size="11" fill="#8B949E">40%</text>
+<text x="409" y="182" font-size="11" fill="#8B949E">50%</text>
+<text x="400.00" y="114.00" text-anchor="middle" fill="#C9D1D9" font-size="18" font-weight="600">TypeScript</text>
+<text x="400.00" y="137.00" text-anchor="middle" fill="#39D978" font-size="17">43,06 %</text>
+<text x="555.70" y="159.72" text-anchor="start" fill="#C9D1D9" font-size="18" font-weight="600">Lua</text>
+<text x="555.70" y="182.72" text-anchor="start" fill="#39D978" font-size="17">2,04 %</text>
+<text x="661.97" y="282.36" text-anchor="start" fill="#C9D1D9" font-size="18" font-weight="600">SQL</text>
+<text x="661.97" y="305.36" text-anchor="start" fill="#39D978" font-size="17">0,89 %</text>
+<text x="685.07" y="442.99" text-anchor="start" fill="#C9D1D9" font-size="18" font-weight="600">HTML</text>
+<text x="685.07" y="465.99" text-anchor="start" fill="#39D978" font-size="17">0,89 %</text>
+<text x="617.66" y="590.60" text-anchor="start" fill="#C9D1D9" font-size="18" font-weight="600">Python</text>
+<text x="617.66" y="613.60" text-anchor="start" fill="#39D978" font-size="17">31,59 %</text>
+<text x="481.14" y="678.33" text-anchor="start" fill="#C9D1D9" font-size="18" font-weight="600">Shell</text>
+<text x="481.14" y="701.33" text-anchor="start" fill="#39D978" font-size="17">0,18 %</text>
+<text x="318.86" y="678.33" text-anchor="end" fill="#C9D1D9" font-size="18" font-weight="600">CSS</text>
+<text x="318.86" y="701.33" text-anchor="end" fill="#39D978" font-size="17">0,11 %</text>
+<text x="182.34" y="590.60" text-anchor="end" fill="#C9D1D9" font-size="18" font-weight="600">JavaScript</text>
+<text x="182.34" y="613.60" text-anchor="end" fill="#39D978" font-size="17">21,13 %</text>
+<text x="114.93" y="442.99" text-anchor="end" fill="#C9D1D9" font-size="18" font-weight="600">PowerShell</text>
+<text x="114.93" y="465.99" text-anchor="end" fill="#39D978" font-size="17">0,08 %</text>
+<text x="138.03" y="282.36" text-anchor="end" fill="#C9D1D9" font-size="18" font-weight="600">Dockerfile</text>
+<text x="138.03" y="305.36" text-anchor="end" fill="#39D978" font-size="17">0,02 %</text>
+<text x="244.30" y="159.72" text-anchor="end" fill="#C9D1D9" font-size="18" font-weight="600">Mako</text>
+<text x="244.30" y="182.72" text-anchor="end" fill="#39D978" font-size="17">0,01 %</text>
+<text x="400" y="733" text-anchor="middle" fill="#8B949E" font-size="13">Escala lineal común: centro 0 % · borde 50 %</text>
+<text x="400" y="757" text-anchor="middle" fill="#8B949E" font-size="12">Por tamaño de archivos · Actualizado: 05/10/2026</text>
+</g>
+</svg>
