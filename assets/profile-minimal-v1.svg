@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">RubioKo — Full-stack developer &amp; product builder</title>
+  <desc id="desc">A minimal dark banner with white typography and a soft blue light moving along a short line.</desc>
+  <defs>
+    <linearGradient id="light"><stop stop-color="#58A6FF" stop-opacity="0"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
+    <style>@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  </defs>
+  <rect width="1200" height="240" rx="10" fill="#0D1117"/>
+  <g font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">
+    <text x="64" y="112" font-size="54" font-weight="600" letter-spacing="-1.5" fill="#F0F6FC">RubioKo</text>
+    <text x="66" y="158" font-size="22" fill="#8B949E">Full-stack developer &amp; product builder</text>
+  </g>
+  <path d="M860 121H1134" stroke="#25374B" stroke-width="1.5"/>
+  <rect class="motion" x="860" y="120" width="70" height="2" rx="1" fill="url(#light)">
+    <animate attributeName="x" values="860;1064;860" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;.8;.25" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="1134" cy="121" r="3" fill="#58A6FF"/>
+</svg>
