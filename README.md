@@ -1,47 +1,57 @@
 # Jhon Rubio
 
-**RubioKo · Desarrollador full stack**  
-Plataformas web, automatización e inteligencia artificial.
+**RubioKo · Desarrollador full stack**
 
-Me gusta convertir tareas complicadas en herramientas fáciles de usar. Desarrollo interfaces, servicios y bots con una idea en común: que la tecnología ayude a las personas a organizarse, trabajar y conectar mejor.
+Desarrollo plataformas web, automatizaciones y herramientas con IA. Trabajo en la experiencia de usuario, los servicios, los datos y su puesta en producción.
 
-Mi trabajo une la parte visual con lo que ocurre detrás: desde una pantalla clara hasta la lógica, los datos y el despliegue que la hacen funcionar. Me interesa construir productos que puedan evolucionar con las necesidades de quienes los usan.
+## Lo que construyo
 
-### Lo que construyo
+### [HiveScope](https://github.com/RubioKo/hivescope)
 
-**[HiveScope](https://github.com/RubioKo/hivescope)**  
-**Código abierto · En fase de diseño y documentación.** Una red comunitaria entre pares para compartir recursos de forma voluntaria. Su primer objetivo es sincronizar carpetas privadas entre dispositivos mediante almacenamiento cifrado aportado por participantes autorizados, con control sobre el espacio, las transferencias y los horarios que comparte cada persona.
+**Red comunitaria de recursos · Código abierto · Diseño y documentación**
 
-**[OmniBot](https://github.com/RubioKo/omni-bot)**  
-Bot para comunidades de Discord que reúne moderación, música y asistencia con IA. Un espacio donde conecto automatización y experiencias de comunidad.
+Proyecto para compartir recursos entre participantes autorizados. Su primer objetivo es sincronizar carpetas privadas entre dispositivos mediante almacenamiento cifrado, con límites de espacio, transferencia y horarios definidos por cada participante.
 
-### Proyectos privados
+[Conocer el proyecto](https://github.com/RubioKo/hivescope/blob/main/README.es.md)
+
+### [OmniBot](https://github.com/RubioKo/omni-bot)
+
+**Herramientas para Discord · Código abierto · Implementación publicada**
+
+Bot para comunidades que integra moderación, tickets, música, radio y asistencia con IA. Reúne herramientas de gestión y participación en un proyecto que otras comunidades pueden adaptar y ampliar.
+
+[Cómo contribuir](https://github.com/RubioKo/omni-bot/blob/main/CONTRIBUTING.md)
+
+## Proyectos privados
 
 **Asistente para una comunidad de videojuegos**  
-Desarrollo y mantengo un bot de Discord que integra soporte mediante tickets, organización de partidas, música y asistencia con IA para el equipo de moderación. Trabajo en sus funcionalidades, persistencia de datos y despliegue, incorporando mejoras según las necesidades de la comunidad.
+Desarrollo y mantengo un bot que centraliza soporte, organización de partidas, música y asistencia con IA para moderación. Mi trabajo abarca funcionalidades, permisos, persistencia de datos y despliegue, con mejoras guiadas por el uso de la comunidad.
 
 **Plataformas web y herramientas internas**  
-Desarrollo plataformas y dashboards para negocios, combinando interfaces, servicios y automatizaciones para simplificar tareas y organizar información. Estos proyectos permanecen privados; aquí comparto su enfoque sin exponer código ni detalles internos.
+Construyo interfaces, servicios y automatizaciones para organizar información y simplificar tareas de negocio. Trabajo en la conexión entre la experiencia de usuario y la lógica de la aplicación; el código y los detalles internos permanecen privados.
 
-### Cómo pienso el software
+## Cómo trabajo
 
-Empiezo por entender qué necesita resolver una herramienta. Busco interfaces claras, decisiones técnicas que se puedan mantener y mejoras guiadas por el uso real. Me interesa aplicar IA cuando aporta una ayuda concreta al producto o al proceso.
+- **Interfaces claras:** facilitar que las personas entiendan qué pueden hacer y qué ocurre después.
+- **Datos que puedan recuperarse:** considerar la persistencia, los fallos y la recuperación desde el diseño.
+- **Mejoras con propósito:** priorizar necesidades reales y comprobar los cambios antes de publicarlos.
 
-### Tecnologías con las que trabajo
+## Tecnologías con las que trabajo
 
 | Área | Herramientas |
 | :--- | :--- |
-| Interfaces | <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat&amp;logo=typescript&amp;logoColor=3178C6" /> <img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&amp;logo=react&amp;logoColor=61DAFB" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat&amp;logo=tailwindcss&amp;logoColor=06B6D4" /> |
-| Servicios y automatización | <img alt="Python" src="https://img.shields.io/badge/Python-161B22?style=flat&amp;logo=python&amp;logoColor=3776AB" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&amp;logo=nodedotjs&amp;logoColor=5FA04E" /> |
-| Datos | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-161B22?style=flat&amp;logo=supabase&amp;logoColor=3FCF8E" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-161B22?style=flat&amp;logo=sqlite&amp;logoColor=56B4D9" /> |
-| Desarrollo y despliegue | <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&amp;logo=git&amp;logoColor=F05032" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat&amp;logo=docker&amp;logoColor=2496ED" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat&amp;logo=githubactions&amp;logoColor=2088FF" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-161B22?style=flat&amp;logo=figma&amp;logoColor=F24E1E" /> |
+| Interfaces | ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4) |
+| Servicios y automatización | ![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E) |
+| Datos | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1) ![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3FCF8E) ![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat&logo=sqlite&logoColor=56B4D9) |
+| Desarrollo y despliegue | ![Git](https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat&logo=githubactions&logoColor=2088FF) ![Figma](https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E) |
 
-### Conectemos
+## Conectemos
 
-Puedes explorar mis proyectos públicos o abrir un issue en el repositorio correspondiente para conversar sobre una mejora o una contribución.
+Me interesan las colaboraciones en código abierto, automatización y desarrollo de plataformas web. Para proponer una mejora o contribuir, abre un issue en el proyecto correspondiente.
 
 [Repositorios](https://github.com/RubioKo?tab=repositories) · [Instagram](https://www.instagram.com/jhonrubiokings/)
 
 ---
 
 **De una idea a algo que puedas usar.**
+
