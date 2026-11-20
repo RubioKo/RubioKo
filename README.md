@@ -9,11 +9,11 @@ Mi trabajo une la parte visual con lo que ocurre detrás: desde una pantalla cla
 
 ### Lo que construyo
 
+**[HiveScope](https://github.com/RubioKo/hivescope)**  
+**Código abierto · En fase de diseño y documentación.** Una red comunitaria entre pares para compartir recursos de forma voluntaria. Su primer objetivo es sincronizar carpetas privadas entre dispositivos mediante almacenamiento cifrado aportado por participantes autorizados, con control sobre el espacio, las transferencias y los horarios que comparte cada persona.
+
 **[OmniBot](https://github.com/RubioKo/omni-bot)**  
 Bot para comunidades de Discord que reúne moderación, música y asistencia con IA. Un espacio donde conecto automatización y experiencias de comunidad.
-
-**[HiveScope](https://github.com/RubioKo/hivescope)**  
-**Proyecto en desarrollo.** Una propuesta para visualizar sistemas de IA multiagente con un enfoque local-first. El repositorio público reúne por ahora el diseño, la documentación y la hoja de ruta; la implementación todavía no está publicada.
 
 ### Proyectos privados
 
